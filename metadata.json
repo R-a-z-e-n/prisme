@@ -1,0 +1,8 @@
+{
+  "name": "Priisme",
+  "description": "A comprehensive platform for booking salon services, shopping for fashion, renting products, and exploring AI-driven beauty and style experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
